@@ -42,6 +42,9 @@ header {
   padding: 1rem;
   position: relative;
   text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 header h1 a {
