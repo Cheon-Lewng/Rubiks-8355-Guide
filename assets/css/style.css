@@ -1,0 +1,129 @@
+/* Import Fredoka font */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+:root {
+  --bg-color: #1e1e1e;
+  --text-color: #ffffff;
+  --link-color: #66ccff;
+  --link-visited-color: #bbbbff;
+  --header-bg: #2a2a2a;
+  --section-padding: 2rem;
+  --transition-speed: 0.3s;
+}
+
+body {
+  margin: 0;
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+
+body.light-mode {
+  --bg-color: #f4f4f4;
+  --text-color: #111;
+  --link-color: #0066cc;
+  --link-visited-color: #6600cc;
+  --header-bg: #e0e0e0;
+}
+
+h1, h2, h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
+
+header {
+  background-color: var(--header-bg);
+  padding: 1rem;
+  position: relative;
+  text-align: center;
+}
+
+header h1 a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+  position: absolute;
+  right: 3.5rem;
+  top: 1rem;
+  z-index: 999;
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.8rem;
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 999;
+}
+
+.navbar-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  background-color: var(--header-bg);
+  display: none;
+}
+
+.navbar-links a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color var(--transition-speed);
+}
+
+.navbar-links a:visited {
+  color: var(--link-visited-color);
+}
+
+.navbar-links a:hover {
+  color: #ffd966;
+}
+
+.navbar-links.show {
+  display: flex;
+}
+
+main {
+  padding: var(--section-padding);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--header-bg);
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+/* Desktop Navbar */
+@media (min-width: 768px) {
+  .nav-toggle {
+    display: none;
+  }
+
+  .navbar-links {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.5rem 0;
+  }
+}

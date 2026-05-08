@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">Rubik’s Guides</a></h1>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">☰</button>
+    <nav class="navbar-links" id="navbarLinks">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/cube-basics/' | relative_url }}">Cube Basics</a>
+      <a href="{{ '/beginners-method/' | relative_url }}">Beginner’s Method</a>
+      <a href="{{ '/next-steps/' | relative_url }}">Next Steps</a>
+      <a href="{{ '/cfop/' | relative_url }}">CFOP</a>
+    </nav>
+    <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>Created with ❤️ by Tensai-kun</p>
+  </footer>
+
+  <script>
+    const navToggle = document.getElementById("navToggle");
+    const navbarLinks = document.getElementById("navbarLinks");
+    const themeToggle = document.getElementById("themeToggle");
+
+    navToggle.addEventListener("click", () => {
+      navbarLinks.classList.toggle("show");
+    });
+
+    themeToggle.addEventListener("click", () => {
+      document.body.classList.toggle("light-mode");
+      if (document.body.classList.contains("light-mode")) {
+        themeToggle.textContent = "🌞";
+      } else {
+        themeToggle.textContent = "🌙";
+      }
+    });
+  </script>
+</body>
+</html>
