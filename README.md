@@ -1,5 +1,5 @@
 Link to site:
-https://cheon-lewng.github.io/Rubiks-8355-Guide/
+[8355 Guide](https://cheon-lewng.github.io/Rubiks-8355-Guide/)
 
 # Child-Friendly Rubik’s Cube Guide
 ## The 8355 Method (Story-First, ELI3)
