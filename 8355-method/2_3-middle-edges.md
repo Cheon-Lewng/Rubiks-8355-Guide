@@ -1,26 +1,26 @@
 ## STEP 2 – MIDDLE EDGES
 
 ### 🎯 Big Goal
-Help **three middle friends** find their homes.  
+Help **three middle friends** find their homes.<br>
 One door stays open on purpose.
 
 ---
 
 ### 📖 The Story (no moves)
-The cube has a **Working Door**.  
-This door is special.  
+The cube has a **Working Door**.<br>
+This door is special.<br>
 It stays open so friends can go in and out safely.
 
-Some friends live in the **middle** of the cube.  
-They are not white.  
+Some friends live in the **middle** of the cube.<br>
+They are not white.<br>
 They are not yellow.
 
-Today, we help **three** of them move in.  
-Not four.  
+Today, we help **three** of them move in.<br>
+Not four.<br>
 Three.
 
-The **sun** stays up in the sky.  
-The door stays right where it is.  
+The **sun** stays up in the sky.<br>
+The door stays right where it is.<br>
 Nothing is rushed.
 
 ---
@@ -31,7 +31,7 @@ Nothing is rushed.
 - Those two colors **match a white corner that is already done**.
 - That butterfly has a home next to that corner.
 
-If the colors match, it’s the right friend.  
+If the colors match, it’s the right friend.<br>
 If not, we leave it alone.
 
 ---
@@ -40,17 +40,17 @@ If not, we leave it alone.
 - The **Working Door stays unsolved** on purpose.
 - The **net** is the layer with the Working Door.
 - The net can be on the **right or the left**.
-
+<br><br>
 - We only help butterflies **from the top**.
 - We only choose butterflies that **match a done white corner**.
-
+<br><br>
 - We may move the **top two layers together** to line the butterfly's **home** up with the open Working Door space.
-
+<br><br>
 - Before you begin, look at the butterfly’s **side color**.
 - Hold the cube so the **net layer** shows that color.
-
+<br><br>
 - We help **three** middle friends. No more.
-
+<br><br>
 - Releasing a friend and trying again is **safe**.
 
 ---
@@ -77,8 +77,8 @@ If a butterfly lands the wrong way:
 - Line it up again.
 - Catch it again.
 
-No guessing.  
-No rushing.  
+No guessing.<br>
+No rushing.<br>
 The door stays open.
 
 ---
@@ -90,9 +90,9 @@ You are done when:
 - The **Working Door is still open**.
 - The **sun is still up**.
 
-If four are done, open the door again and let one out.  
-That’s not a mistake.  
-That’s part of the game.
+If four are done, open the door again and let one out.<br>
+That’s not a mistake.<br>
+That’s part of the game.<br>
 
 ---
 
@@ -105,3 +105,14 @@ That’s part of the game.
 - Incorrect insertions are fixed by **lifting the net to eject**—no special cases.
 - Do **not** solve the fourth middle edge. Keep the Working Door unsolved for later steps.
 - Emphasize safety, release, and retry. Avoid counting or repetition “until it works.”
+
+---
+
+### 🧩 _“Great work! Three friends have moved in together, and one special space is still open on purpose.”_
+_The cube feels steady and ready for something new._
+
+**🌱 Ready for the next kind of thinking?**
+
+⬅️ [**Back: Step 1C – Catching Three Butterflies**](1c_3-corners.md) | [**Next: Step 3 – Watching the Last Edges**](3_5-edges.md) ➡️
+
+🔝 **Return to [Guide Overview](index.md)**

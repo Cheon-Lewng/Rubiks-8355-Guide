@@ -1,97 +1,87 @@
-# 🧩 Rubik’s Cube Adventures: Your Guide to Solving Magic
 
-Welcome to your Rubik’s Cube adventure! 🌈✨
-
-Whether it’s your first time meeting the cube or you’re ready to zip through it like lightning, we’ve got a path just for you. This magical guide is full of fun tricks, friendly moves, and silly names to help you along the way.
-
-Think of it like a storybook—each chapter brings you closer to becoming a cube master! 🧙‍♂️
-
----
-
-## 📚 What’s Inside This Guide?
-
-- **🧠 Cube Basics**: Learn about the cube’s body parts, what we call its faces, and how to read its dance moves (called notation).
-- **🪄 Beginner’s Method**: A gentle, easy-to-follow path to solving the whole cube, one happy step at a time.
-- **⚡ CFOP Method**: A speedy, powerful method used by pros and speedy cubers everywhere!
+# 🧩 The 8355 Method
+A story‑first way to solve the Rubik’s Cube, made for kids.<br>
+This guide is not about being fast. It is about understanding. It is about confidence. It is about learning that puzzles are friendly things.<br>
+The 8355 Method solves the cube in four gentle phases, using stories, pictures, and only one core move that changes its meaning as the adventure grows.<br>
+Adults are helpers. Children are the heroes.
 
 ---
 
-## 🗺️ Table of Contents
-
-1. [Before the Adventure Begins](#8355-method)
-2. [Big Words & Friends](#big-words)
+## 🌟 How This Guide Is Organized
+This guide has three main parts. You can read them in order, or jump around if an adult is helping.<br>
 
 ---
 
-## 🧠 Cube Basics
+### 🧭 Before the Adventure Begins
+Start here if this is your first time meeting the cube.<br>
+This section explains:
 
-Before we dive into solving, let’s meet the cube and learn its favorite moves!
-
-[Jump into Cube Basics →](./cube-basics/index.md)
-<a id="cube-anatomyy"></a>
-### 🦴 Cube Anatomy
-
-Your cube is made of **26 little puzzle pieces**:
-- **Corners**: 8 of them, each with 3 colors.
-- **Edges**: 12 in total, each with 2 colors.
-- **Centers**: 6 fixed friends in the middle of each face that never move!
-
-These pieces twist and turn around a magical invisible ball inside. 🎱
-
----
-<a id="cube-notation"></a>
-### 💃 Cube Notation
-
-Cubes love to dance! We use special letters to tell them how to move. Here's how we talk to our cube:
-
-- **R / R'**: Right face turns (clockwise / counter-clockwise)
-- **L / L'**: Left face turns
-- **U / U'**: Up face turns
-- **D / D'**: Down face turns
-- **F / F'**: Front face turns
-- **B / B'**: Back face turns
-
-A **2** after a letter means a big spin: a 180° turn! (Like R2)
-
----
-<a id="face-names"></a>
-### 🧭 Face Names
-
-Each side of the cube has a name, and they usually match colors:
-
-- **U (Up)**: Usually white
-- **D (Down)**: Usually yellow
-- **F (Front)**: Usually blue
-- **B (Back)**: Usually green
-- **R (Right)**: Usually red
-- **L (Left)**: Usually orange
-
-Knowing these is like knowing your left and right hands—it helps a lot!
-
----
-<a id="beginners-method"></a>
-## 🪄 Beginner’s Method
-
-This is where your solving journey begins! 🛤️
-
-We’ll go one tiny step at a time, solving one layer after another. You’ll learn silly tricks like the **“Super Move”** and meet fun friends like **Sune** and **Niklas**. 🌟
-
-[Jump into the Beginner’s Method →](./beginners-method/index.md)
-
----
-<a id="cfop-method"></a>
-## ⚡ CFOP Method
-
-Already know how to solve the cube? Ready to go faster? 🏎️
-
-The CFOP method is a super-speedy technique used by pros. It’s a little trickier, but once you’ve mastered the beginner’s way, this is your next big leap.
-
-[Explore CFOP Method →](./cfop-method/f2l_flowchart.html) (coming soon)
+what the cube is made of<br>
+how the cube likes to be held<br>
+why the Sun stays in the sky<br>
+why mistakes are safe<br>
+👉 This is where fear disappears and curiosity starts.<br>
+[Before the Adventure Begins](./adventure-begins)
 
 ---
 
-## 🏁 Let the Cubing Journey Begin!
+### 🗺️ The 8355 Method (The Main Adventure)
+This is the heart of the journey.<br>
+The cube is solved in four phases:
 
-Are you ready to twist, turn, and transform your cube from scrambled spaghetti into a shiny rainbow square?
+8 – Foundations<br>
+3 – Middle Friends<br>
+5 – Last Edges<br>
+5 – Last Corners<br>
+You will:
 
-Choose your path and let the magic begin! 🎩✨
+meet butterflies and fish<br>
+learn about the Working Door<br>
+use the same idea again and again in new ways<br>
+There is only one move idea in the entire guide. It never breaks the cube. It always comes back safe.<br>
+👉 This is where the cube slowly becomes your friend.<br>
+[The 8355 Method](./8355-method)
+
+---
+
+### 📖 Big Words and Friends
+Sometimes grown‑ups use big words. Sometimes guides invent names.<br>
+This page explains every important word and character used in the story:
+
+- Sun
+- Petals
+- Net
+- Butterfly
+- Fish
+- Working Door<br>
+Nothing here is required to solve. It is here to help adults explain things without changing the story.<br>
+👉 This is the dictionary for this world.<br>
+[Big Words and Friends](./big-words)
+
+---
+
+## ❤️ Important Promises of This Guide
+
+The yellow Sun stays on top until the very end.<br>
+There is always one safe place left unsolved on purpose.<br>
+Things looking messy does not mean something is wrong.<br>
+You never need to guess.<br>
+You never need to count.<br>
+If something goes wrong, the story shows how to recover. Mistakes are part of the adventure.
+
+
+## 👩‍👧 For Grown‑Ups Reading Along
+This guide is written for children first.<br>
+Please:
+
+read the stories as written<br>
+avoid adding cube words<br>
+trust the structure<br>
+There are notes just for you when needed. They are never required for success.
+
+
+## 🌈 Ready to Begin?
+Take a deep breath. Hold the cube. Look for the Sun.<br>
+The adventure starts when you’re ready.<br>
+✨<br>
+[**Before the Adventure Begins**](./adventure-begins)

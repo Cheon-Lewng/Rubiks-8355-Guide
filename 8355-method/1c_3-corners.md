@@ -3,24 +3,24 @@
 ### 🎯 Big Goal
 Help **three white corners** find their homes.
 
-**Stop at three.**  
+**Stop at three.**<br>
 One white corner must stay out on purpose.
 
 ---
 
 ### 📖 The Story (no moves)
-The **Sun** is still in the sky.
+The **Sun** is still in the sky.<br>
 It stays calm and still.
 
-Now we meet something new.
+Now we meet something new.<br>
 Say hello to the **Butterflies**.
 
-Butterflies live in the **top layer**.
-That is the sky.
+Butterflies live in the **top layer**.<br>
+That is the sky.<br>
 They like to fly in and out.
 
-Today, we help **three** Butterflies land safely.
-One Butterfly keeps flying.
+Today, we help **three** Butterflies land safely.<br>
+One Butterfly keeps flying.<br>
 That open space is important.
 
 ---
@@ -37,7 +37,7 @@ That can look like two things:
 - The white sticker is **looking at the Sun**.
 - The Butterfly is **caught under the net**, not in the sky yet.
 
-Both mean the same thing:
+Both mean the same thing:<br>
 This Butterfly is not ready to land.
 
 ---
@@ -63,7 +63,7 @@ This Butterfly is not ready to land.
 2. Find a **Butterfly** with white.
 3. Check the white sticker.
    - If it **faces you**, keep going.
-4. **Catch the Butterfly**. 
+4. **Catch the Butterfly**.
    - The Butterfly **moves out of the net’s path**.
    - Lift the **net** up.
    - The Butterfly flies into the net.
@@ -78,7 +78,7 @@ If the Butterfly is **not ready**:
 
 Now look again.
 
-When the white sticker **faces you**,
+When the white sticker **faces you**,<br>
 **catch the Butterfly** the normal way.
 
 ---
@@ -104,7 +104,7 @@ You are done when:
 - **One** white corner is still missing.
 - The **Sun is still on top**.
 
-**Stop here.**
+**Stop here.**<br>
 Leaving one spot open is a success.
 
 ---
@@ -116,3 +116,13 @@ Leaving one spot open is a success.
 - The unsolved fourth corner **implicitly creates the Working Door** needed for later steps.
 - Emphasize stopping after three as a **rule**, not a mistake.
 - Escapes are expected; recovery is always the same move.
+
+___
+
+### 🧩 _“Well done, Butterfly Catcher! Three Butterflies are home, and one special space stays open for the journey ahead.”_
+_Pausing here means you did this step exactly right._
+
+✨ **The adventure continues…**
+
+⬅️ [**Back: Step 1B – Growing the White Cross**](1b_cross.md) | [**Next: Step 2 – Bringing Friends Side by Side**](2_3-middle-edges.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

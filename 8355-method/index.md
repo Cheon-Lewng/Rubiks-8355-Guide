@@ -1,113 +1,96 @@
-## 📖 Before We Begin: Everyone Has a Home
+# 🧭 The 8355 Cube Adventure Begins
+**Welcome back, Cube Explorer** 🌈<br>
+You’ve met the cube.<br>
+You’ve learned how it likes to be held.<br>
+You know where the Sun belongs.<br>
+Now the real adventure begins.<br>
+We are going to help the cube gently and safely, one friend at a time, until everything feels calm and complete.<br>
+We will not rush.<br>
+We will not guess.<br>
+We will not memorize lots of rules.<br>
+We will use a story.<br>
+And the cube will always come back safe.
 
-This cube is made of **little friends**.
-They are not just colors.
-They are real pieces that stay together.
+---
 
-Each friend has its own **home**.
+## 🗺️ The Four Parts of the 8355 Adventure
+This journey has four main parts.<br>
+Each number tells how many friends we help in that part of the story.<br>
+You don’t have to understand the numbers yet.<br>
+They are just signposts to help grown‑ups notice where we are.<br>
+You can tap any part to jump ahead, or simply follow the arrows at the bottom of each page.
 
-A home is the place where a friend belongs.
-You can tell it’s home when the **colors match** all around it.
+---
 
-Sometimes a friend is far from home.
-Sometimes it looks close, but it’s not quite right yet.
-That’s okay.
+### 🌼 Step 1 – Foundations (8 Friends)
+This step builds a calm, friendly world where everything else can happen.
 
-Today, we are not fixing colors.
-We are **helping friends find their homes**.
+1. **Making a Daisy**<br>
+    Meet the Sun and the Petals.<br>
+    We make a flower to help us begin.<br>
+    👉 [Step 1A – Making a Daisy](01_daisy.md)
 
-If a friend gets lost, it’s safe.
-If we make a mistake, it’s safe.
-Every friend can always go home again.
+2. **Growing the White Cross**<br>
+The daisy changes shape and becomes strong.<br>
+The petals rest when their job is done.<br>
+👉 [Step 1B – Growing the White Cross](1b_cross.md)
 
-___
-## 📖 How the Cube Likes to Move
 
-The cube does not move all at once. It moves in layers.
+3. **Catching Three Butterflies**<br>
+We meet the Butterflies in the sky.<br>
+We help three land safely.<br>
+One keeps flying on purpose.<br>
+👉 [Step 1C – Catching Three Butterflies](1c_3-corners.md)
 
-A layer is a group of friends that move together. When we turn the cube, we turn one layer at a time. Sometimes the top layer moves. Sometimes the bottom layer moves. Sometimes two layers move together.
+---
 
-We do not pick up single friends. We let groups move together. That keeps everyone safe.
+### 🤝 Step 2 – Helping Friends Go Together (3 Friends)
+Now we help some new friends move in.<br>
+These friends like to travel in pairs.<br>
+We use the special open space we saved earlier to help them move safely.<br>
+We help three friends.<br>
+One space stays open on purpose.<br>
+👉 [Step 2 – Bringing Friends Side by Side](2_3-middle-edges.md) ➡️
 
-Moving in layers helps the story stay calm. It helps friends travel without getting hurt. Layer by layer, the cube knows what to do.
+---
 
-___
-## 📖 Why This Adventure Has Parts
+### 👀 Step 3 – Watching the Last Edges (5 Friends)
+This step is quiet and thoughtful.<br>
+We help the last edge friends finish their journey.<br>
+We don’t force anything.<br>
+We solve by watching and noticing.<br>
+Sometimes the cube looks mixed for a while.<br>
+That is normal.<br>
+The cube knows how to come back.<br>
+👉 [Step 3 – Watching the Last Edges](3_5-edges.md)
 
-This journey has **four big chapters**.
-Each chapter helps a **certain number of friends** get home.
+### 🐟 Step 4 – The Final Corner Dance (5 Friends)
+At the very end, we meet the Fish.<br>
+We help the last corner friends by doing a gentle, repeating dance.<br>
+It looks the same each time.<br>
+It may look messy in the middle.<br>
+It always comes back safe.<br>
+This part is a celebration.<br>
+👉 [Step 4 – The Final Corner Dance](4_5-corners.md)
 
-The first chapter is special.
-It is big and important.
-So it is told in **three little pages**.
+---
 
-Even though it has three parts,
-it is still **one chapter** of the story.
+## ❤️ Important Things to Remember
 
-In this first chapter,
-we help **eight friends** get started and settle in safely.
-We do it slowly.
-One group at a time.
+The Sun stays on top until the very end.<br>
+One space is left open on purpose.<br>
+Things looking messy does not mean something is wrong.<br>
+You never need to count.<br>
+You never need to guess.
 
-Later chapters are shorter.
-They help **three**, then **five**, then **five** friends more.
+This guide works because it is patient.<br>
+And because you are patient too.
 
-So if you ever wonder:
-“Why does Step One have so many parts?”
+## 🌈 Ready to Begin?
+If you just came from Before the Adventure Begins, you’re ready.<br>
+Hold the cube.<br>
+Find the Sun.<br>
+Take a breath.
 
-It’s because this chapter builds the floor.
-And strong floors are made **piece by piece**.
-
-We are not rushing.
-We are building something that lasts.
-
-___
-## 🌈 There Is No “Wrong”
-
-This cube cannot be broken.
-Nothing bad will happen.
-
-If something looks strange, it’s okay.
-If a friend goes the wrong way, it’s okay.
-If things get mixed up, it’s okay.
-
-We are not trying to be perfect.
-We are just helping friends find their homes.
-
-Every move can be undone.
-Every friend can always come back.
-
-You are safe to try.
-
-___
-## 🧭 How We Hold the Cube
-
-The cube has a **sun**.
-The sun likes to stay in the sky.
-
-Most of the time, we hold the cube so the sun stays up.
-That way, the story makes sense.
-
-We don’t flip the whole world unless the story says to.
-When the story needs a turn, it will tell us.
-
-Until then, the sun stays happy in the sky.
-
-___
-## 🐢 Slow Is Just Right
-
-This is not a race.
-There is no timer.
-No one is watching.
-
-It is good to stop and look.
-It is good to think.
-It is good to ask for help.
-
-Some friends like to move quickly.
-Some like to rest first.
-Both are okay.
-
-We will go slowly.
-We will go together.
-And the cube will wait for us.
+🌼<br>
+👉 [**Start with Step 1A – Making a Daisy**](1a_daisy.md)

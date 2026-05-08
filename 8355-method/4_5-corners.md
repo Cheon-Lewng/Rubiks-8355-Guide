@@ -1,7 +1,7 @@
 ## STEP 4 – LAST CORNERS
 
 ### 🎯 Big Goal
-Help the last **five corners** finish their journey.  
+Help the last **five corners** finish their journey.<br>
 End with a happy, complete cube.
 
 This step is a **celebration dance**.
@@ -9,19 +9,19 @@ This step is a **celebration dance**.
 ---
 
 ### 📖 The Story (no moves)
-You made it to the end.  
+You made it to the end.<br>
 Now we meet the **Fish**.
 
-Fish are corner friends.  
+Fish are corner friends.<br>
 They only swim here, at the very end.
 
-The **Working Door** is still with us.  
-This time, it **does not travel**.  
+The **Working Door** is still with us.<br>
+This time, it **does not travel**.<br>
 It stays by **your right hand**, the whole time.
 
-The Fish know a dance.  
-The dance looks the same every time.  
-It may look messy in the middle.  
+The Fish know a dance.<br>
+The dance looks the same every time.<br>
+It may look messy in the middle.<br>
 That is okay.
 
 This dance always brings the cube back safely.
@@ -55,7 +55,7 @@ That is expected.
 ### Catch the Fish
 This move is **the same move** you already know.
 
-It is just like **Catch the Butterfly**,  
+It is just like **Catch the Butterfly**,<br>
 but now the piece is **under the water**, not in the sky.
 
 That’s why we call it **Catch the Fish**.
@@ -67,7 +67,7 @@ How to Catch the Fish:
 - The net **comes back up**.
 
 When you Catch the Fish:
-- The fish **may swim up into the net**,  
+- The fish **may swim up into the net**,<br>
     or
 - The fish **may swim back down and be let go**.
 
@@ -80,7 +80,7 @@ That is one **Catch the Fish**.
 3. Catch the Fish **once**.
 4. Stop and **look at the fish again**.
 
-Each time you do this,  
+Each time you do this,<br>
 the fish will **wiggle and turn**.
 
 Sometimes it takes more than one wiggle.
@@ -93,26 +93,26 @@ You stop when:
 - The fish is **home**, and
 - All its colors **match the walls around it**.
 
-As soon as it looks right,  
+As soon as it looks right,<br>
 **do not wiggle it again**.
 
-A new fish will come visit the door.  
+A new fish will come visit the door.<br>
 Now help that fish.
 
 ___
 ### 🌟 Sometimes the Yellow Top Looks Perfect (But the Cube Does Not)
-This happens sometimes.  
+This happens sometimes.<br>
 You did nothing wrong.
 
 #### What you might see
 
 You may see this:
 
-- The **yellow top looks perfect**.  
+- The **yellow top looks perfect**.<br>
     All the yellow pieces match each other.
 - The rest of the cube looks **mixed and messy**.
 
-This can feel strange.  
+This can feel strange.<br>
 It is expected.
 
 The cube is ready for its **last kind of help**.
@@ -121,7 +121,7 @@ The cube is ready for its **last kind of help**.
 ### 🧠 What to Do
 
 #### 1. Let the cube calm down
-When the yellow top looks perfect  
+When the yellow top looks perfect<br>
 but the rest looks messy:
 
 - Keep using **Catch the Fish**
@@ -139,7 +139,7 @@ Keep going until you see this:
     - one **yellow**
     - one **white**
 
-They are in the right places,  
+They are in the right places,<br>
 but they are **turned the wrong way**.
 
 Now stop.
@@ -152,12 +152,12 @@ Now we do something special.
 After the turn:
 - The **white side** is now the **net**.
 - The net is **under your right hand**.
-- Wherever the net is,  
+- Wherever the net is,<br>
     that place is the **Working Door**.
 
 This is the only time the **net changes color**.
 
-That’s okay.  
+That’s okay.<br>
 Your **right hand** still tells you where the door is.
 
 ---
@@ -166,7 +166,7 @@ Now we use the Working Door.
 
 A fish usually needs to **wiggle a few times**.
 
-- Gently turn the **top**  
+- Gently turn the **top**<br>
     until the **yellow fish is above the door**
 
 Now:
@@ -176,10 +176,10 @@ Now:
 If it is **not facing the right way yet**, 
 help it again.
 
-Each time you do this,  
+Each time you do this,<br>
 the yellow fish **will wiggle and turn**.
 
-When the yellow fish faces the right way,  
+When the yellow fish faces the right way,<br>
 **leave it alone**.
 
 ---
@@ -196,10 +196,10 @@ Now:
 If it is **not facing the right way yet**, 
 help it again.
 
-Each time you do this,  
+Each time you do this,<br>
 the yellow fish **will wiggle and turn**.
 
-When it looks right,  
+When it looks right,<br>
 **do not catch it again**.
 
 ---
@@ -209,7 +209,7 @@ Now the fish are happy.
 
 There may be just **one thing left**:
 
-- Gently turn the **yellow top**  
+- Gently turn the **yellow top**<br>
     until everything lines up
 
 That’s it.
@@ -228,7 +228,7 @@ After each wiggle:
 - The cube is still **safe**.
 - The **Working Door is unchanged**.
 
-If the fish is not done yet,  
+If the fish is not done yet,<br>
 give it another gentle wiggle.
 
 ---
@@ -310,3 +310,13 @@ Step 4 prioritizes **confidence and trust** over efficiency. The learner alway
 - and when to stop.
 
 At every point, the cube remains safe and recoverable.
+
+---
+
+### 🎉 _“You did it! Every fish is happy, every face is calm, and the cube is complete.”_
+_You trusted the dance, and the cube came home._
+
+**🌈 Take a moment to smile. This puzzle is yours now.**
+
+⬅️ [**Back: Step 3 – Watching the Last Edges**](3_5-edges.md)<br>
+🔝 Return to [Guide Overview](index.md)

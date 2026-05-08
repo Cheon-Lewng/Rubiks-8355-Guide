@@ -10,17 +10,17 @@ Four white **Petals** will sit next to the Sun.
 ### 📖 The Story (no moves)
 This is your first time meeting the cube.
 
-Meet the **Sun**.
-The Sun is yellow.
-The Sun lives on top.
+Meet the **Sun**.<br>
+The Sun is yellow.<br>
+The Sun lives on top.<br>
 The Sun does **not** move.
 
-Now meet the **Petals**.
-Petals are white.
+Now meet the **Petals**.<br>
+Petals are white.<br>
 Petals like the Sun.
 
-Petals are special helpers.
-They help for a little while.
+Petals are special helpers.<br>
+They help for a little while.<br>
 Later, they will rest.
 
 ---
@@ -30,7 +30,7 @@ Later, they will rest.
 - **White Petals** on the top cube.
 - Open spots next to the Sun.
 
-You may see none for a while.
+You may see none for a while.<br>
 That is okay.
 
 ---
@@ -60,7 +60,7 @@ If **no Petal appears**:
 
 Then start again.
 
-Go slow.
+Go slow.<br>
 The cube is safe.
 
 ---
@@ -97,3 +97,13 @@ You made a flower.
 - Direction does not matter as long as the mover is **consistent**.
 - This step avoids case recognition entirely and builds confidence through visible progress.
 - The daisy is **temporary**; it simplifies what comes next without requiring understanding here.
+
+---
+
+### 🌼 _“Hooray! Your daisy is blooming bright and happy — it’s ready for its next big change.”_
+_The petals have done their job, and a new shape is waiting to grow._
+
+🌟 **What happens next?**
+
+[**Next: Step 1B - Growing the White Cross**](1b_cross.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)
