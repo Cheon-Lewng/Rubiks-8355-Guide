@@ -55,5 +55,5 @@ _The petals can rest now. The floor is set._
 
 🌱 **What’s next in the story?**
 
-⬅️ [**Back: Step 1A – Making a Daisy**](01_daisy.md) | [**Next: Step 1C – Catching Three Butterflies**](1c_3-corners.md) ➡️<br>
+⬅️ [**Back: Step 1A – Making a Daisy**](1a_daisy.md) | [**Next: Step 1C – Catching Three Butterflies**](1c_3-corners.md) ➡️<br>
 🔝 Return to [Guide Overview](index.md)
