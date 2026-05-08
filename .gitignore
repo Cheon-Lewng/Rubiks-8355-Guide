@@ -51,3 +51,6 @@ Gemfile.lock
 *.class
 *.o
 *.pyc
+
+# Old css file
+style_old.css

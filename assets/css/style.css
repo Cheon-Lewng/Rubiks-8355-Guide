@@ -1,5 +1,14 @@
+/* =========================================================
+   FONT IMPORTS
+   ========================================================= */
+
 /* Import Fredoka font */
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+
+/* =========================================================
+   CSS VARIABLES (THEME TOKENS)
+   ========================================================= */
 
 :root {
   --bg-color: #1e1e1e;
@@ -11,6 +20,20 @@
   --transition-speed: 0.3s;
 }
 
+/* Light mode overrides */
+html.light-mode {
+  --bg-color: #f4f4f4;
+  --text-color: #111;
+  --link-color: #0033cc;
+  --link-visited-color: #0051ff;
+  --header-bg: #e0e0e0;
+}
+
+
+/* =========================================================
+   BASE / RESET STYLES
+   ========================================================= */
+
 body {
   margin: 0;
   font-family: 'Fredoka', sans-serif;
@@ -18,15 +41,8 @@ body {
   line-height: 1.7;
   background-color: var(--bg-color);
   color: var(--text-color);
-  transition: background-color var(--transition-speed), color var(--transition-speed);
-}
-
-html.light-mode {
-  --bg-color: #f4f4f4;
-  --text-color: #111;
-  --link-color: #0033cc;
-  --link-visited-color: #0051ff;
-  --header-bg: #e0e0e0;
+  transition: background-color var(--transition-speed),
+              color var(--transition-speed);
 }
 
 h1,
@@ -37,18 +53,26 @@ h3 {
   color: var(--text-color);
 }
 
+
+/* =========================================================
+   HEADER / NAVIGATION
+   ========================================================= */
+
 header {
   background-color: var(--header-bg);
   padding: 1rem;
-  position: relative;
   text-align: center;
+
+  /* Sticky behavior */
   position: sticky;
   top: 0;
   z-index: 1000;
+
+  /* Animation */
   transition: padding 0.3s ease, box-shadow 0.3s ease;
-  scroll-padding-top: 5rem;
 }
 
+/* Site title */
 header h1 a {
   text-decoration: none;
   color: var(--text-color);
@@ -56,6 +80,7 @@ header h1 a {
   transition: font-size 0.3s ease;
 }
 
+/* Mobile hamburger toggle */
 .nav-toggle {
   display: none;
   background: none;
@@ -69,6 +94,7 @@ header h1 a {
   z-index: 999;
 }
 
+/* Theme toggle button */
 .theme-toggle {
   background: none;
   border: none;
@@ -81,42 +107,23 @@ header h1 a {
   z-index: 999;
 }
 
+/* Navigation container */
 .navbar-links {
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   gap: 0.75rem;
   padding: 1rem;
   background-color: var(--header-bg);
-  display: none;
   transition: padding 0.3s ease;
-  /* Add transition for padding */
 }
 
-/* Shrunk state */
-header.shrunk {
-  padding: 0.4rem 1rem;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+/* Show menu (mobile JS toggle) */
+.navbar-links.show {
+  display: flex;
 }
 
-header.shrunk h1 {
-  font-size: 1.3rem;
-}
-
-header.shrunk .navbar-links {
-  padding: 0.25rem 0;
-}
-
-@media (max-width: 767px) {
-  header.shrunk {
-    padding: 1rem;
-  }
-
-  header.shrunk h1 {
-    font-size: 1.6rem;
-  }
-}
-
+/* Navigation links */
 .navbar-links a {
   color: var(--link-color);
   text-decoration: none;
@@ -131,9 +138,33 @@ header.shrunk .navbar-links {
   color: #ffd966;
 }
 
-.navbar-links.show {
-  display: flex;
+
+/* =========================================================
+   HEADER SHRINK STATE (ON SCROLL)
+   ========================================================= */
+
+header.shrunk {
+  padding: 0.4rem 1rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
 }
+
+header.shrunk h1 {
+  font-size: 1.3rem;
+}
+
+header.shrunk .navbar-links {
+  padding: 0.25rem 0;
+}
+
+/* Light mode shadow tweak */
+html.light-mode header.shrunk {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+
+/* =========================================================
+   LAYOUT
+   ========================================================= */
 
 main {
   padding: var(--section-padding);
@@ -149,12 +180,37 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Desktop Navbar */
+
+/* =========================================================
+   MARKDOWN CONTENT LINKS
+   ========================================================= */
+
+main a {
+  color: var(--link-color);
+  text-decoration: underline;
+  transition: color var(--transition-speed);
+}
+
+main a:visited {
+  color: var(--link-visited-color);
+}
+
+main a:hover {
+  color: #ffd966;
+}
+
+
+/* =========================================================
+   DESKTOP NAVIGATION (≥768px)
+   ========================================================= */
+
 @media (min-width: 768px) {
+  /* Hide hamburger */
   .nav-toggle {
     display: none;
   }
 
+  /* Horizontal nav layout */
   .navbar-links {
     display: flex !important;
     flex-direction: row;
@@ -162,13 +218,13 @@ footer {
     padding: 0.5rem 0;
   }
 
-  /* Add separators between navbar links */
+  /* Nav link spacing */
   .navbar-links a {
     position: relative;
     padding: 0 0.75rem;
   }
 
-  /* Divider line */
+  /* Vertical separators */
   .navbar-links a:not(:last-child)::after {
     content: "";
     position: absolute;
@@ -180,38 +236,49 @@ footer {
     background-color: rgba(255, 255, 255, 0.3);
   }
 
-  /* Light mode divider color */
-  html.light-mode .navbar-links a:not(:last-child)::after {
+  html.light-mode
+  .navbar-links a:not(:last-child)::after {
     background-color: rgba(0, 0, 0, 0.3);
   }
 
-  html.light-mode header.shrunk {
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-  }
-
-
+  /* Header bottom separator */
   header {
     border-bottom: 2px solid rgba(255, 255, 255, 0.15);
   }
 
-  /* Light mode */
   html.light-mode header {
     border-bottom: 2px solid rgba(0, 0, 0, 0.15);
   }
 
-  /* Markdown content links */
-  main a {
-    color: var(--link-color);
-    text-decoration: underline;
-    transition: color var(--transition-speed);
+  /* Nav row alignment (nav + theme toggle) */
+  .nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
   }
 
-  main a:visited {
-    color: var(--link-visited-color);
+  /* Reset theme toggle positioning for desktop */
+  .theme-toggle {
+    position: static;
+    font-size: 1.5rem;
+    line-height: 1;
+    padding: 0;
+    margin-left: 0.5rem;
+  }
+}
+
+
+/* =========================================================
+   MOBILE ADJUSTMENTS (≤767px)
+   ========================================================= */
+
+@media (max-width: 767px) {
+  header.shrunk {
+    padding: 1rem;
   }
 
-  main a:hover {
-    color: #ffd966;
+  header.shrunk h1 {
+    font-size: 1.6rem;
   }
-
 }
