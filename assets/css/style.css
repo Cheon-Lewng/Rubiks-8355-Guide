@@ -160,4 +160,20 @@ footer {
   html.light-mode header {
     border-bottom: 2px solid rgba(0, 0, 0, 0.15);
   }
+
+  /* Markdown content links */
+  main a {
+    color: var(--link-color);
+    text-decoration: underline;
+    transition: color var(--transition-speed);
+  }
+
+  main a:visited {
+    color: var(--link-visited-color);
+  }
+
+  main a:hover {
+    color: #ffd966;
+  }
+
 }
