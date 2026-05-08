@@ -14,12 +14,12 @@ Adult clarity must never come at the cost of child understanding.
 ## Audience
 
 ### ✅ Write For
-- children ages ~3–10  
+- children ages ~3–10
 - absolute beginners
 
 ### ❌ Do NOT Write For
-- speedcubers  
-- notation-first learners  
+- speedcubers
+- notation-first learners
 - theory-focused readers
 
 ---
@@ -27,15 +27,15 @@ Adult clarity must never come at the cost of child understanding.
 ## Language Rules (Strict)
 
 ### ✅ Allowed in Kid Text
-- short sentences  
-- concrete words  
+- short sentences
+- concrete words
 - physical actions
 
-### 🚫 Forbidden in Kid Text  
+### 🚫 Forbidden in Kid Text
 (Adult notes only)
-- algorithm  
-- permutation  
-- orientation  
+- algorithm
+- permutation
+- orientation
 - clockwise / counterclockwise
 
 ---
@@ -43,8 +43,8 @@ Adult clarity must never come at the cost of child understanding.
 ## Canonical Metaphors (Enforced)
 
 Do NOT:
-- invent new metaphors  
-- mix metaphors  
+- invent new metaphors
+- mix metaphors
 - stretch metaphor meaning
 
 Butterfly, Fish, Net, Sun, Petals, Working Door are **locked**.
@@ -90,8 +90,8 @@ Do NOT:
 - Anchor concept is **adult-only**
 
 Forbidden:
-- fixed color maps  
-- counting cycles  
+- fixed color maps
+- counting cycles
 - algorithmic phrasing
 
 Contributors must not convert Step 3 into a procedural algorithm,
@@ -141,11 +141,11 @@ Adult notes must:
 
 Before submitting, confirm:
 
-- [ ] Yellow up until final step  
-- [ ] Canonical metaphors only  
-- [ ] Working Door preserved  
-- [ ] One algorithm only  
-- [ ] No blind repetition  
+- [ ] Yellow up until final step
+- [ ] Canonical metaphors only
+- [ ] Working Door preserved
+- [ ] One algorithm only
+- [ ] No blind repetition
 - [ ] Emotional safety maintained
 
 ---
@@ -155,8 +155,8 @@ Before submitting, confirm:
 This guide teaches more than a cube.
 It teaches:
 
-- patience  
-- recovery  
+- patience
+- recovery
 - confidence
 
 That is the real puzzle we are solving.

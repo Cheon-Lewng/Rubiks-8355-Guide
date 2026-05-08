@@ -7,15 +7,15 @@
 
 This project is a **child-friendly guide to solving a 3×3 Rubik’s Cube**, designed for:
 
-- children ages ~3–10  
-- absolute beginners  
-- readers with no cube vocabulary  
+- children ages ~3–10
+- absolute beginners
+- readers with no cube vocabulary
 
 The guide prioritizes:
 
-- understanding  
-- confidence  
-- playfulness  
+- understanding
+- confidence
+- playfulness
 
 **Not speed, notation fluency, or cube theory.**
 
@@ -25,25 +25,25 @@ Adults are helpers, not the audience.
 
 ## The 8355 Structure
 
-The cube is solved in **four intentional phases**.  
+The cube is solved in **four intentional phases**.
 Each number represents how many pieces are solved.
 
 1. **8 – Foundations**
-   - Make the daisy  
-   - Make the white cross  
+   - Make the daisy
+   - Make the white cross
    - Solve **three** white corners (stop at 3)
 
 2. **3 – Middle Layer**
-   - Solve **three** middle edges  
+   - Solve **three** middle edges
    - Use the Working Door for controlled loading
 
 3. **5 – Last Edges**
-   - Solve all remaining edges  
-   - Complete the yellow cross  
+   - Solve all remaining edges
+   - Complete the yellow cross
    - Learn relative (non-algorithmic) solving
 
 4. **5 – Last Corners**
-   - Solve the final five corners  
+   - Solve the final five corners
    - Use intentional repetition (the Dance)
 
 Only **one core move** is used throughout the guide.
@@ -79,10 +79,10 @@ The **mechanical details change with the story environment**:
 - Butterflies live in the **sky**, so catching them begins by lifting the net.
 - Fish live in the **water**, so catching them begins by lowering the net.
 
-These are not taught as separate procedures.  
+These are not taught as separate procedures.
 The animal being helped determines how catching works.
 
-From a notation perspective, the sequences are different.  
+From a notation perspective, the sequences are different.
 From the learner’s perspective, there is only **one thing to understand**.
 
 ---
@@ -99,18 +99,18 @@ The cube begins restricted and becomes more expressive:
 ## Language Rules (ELI3)
 
 ### ✅ Allowed in child-facing text
-- short sentences  
-- concrete nouns  
-- animals, objects, characters  
-- physical actions  
+- short sentences
+- concrete nouns
+- animals, objects, characters
+- physical actions
 - emotions (“lost,” “safe,” “stuck”)
 
-### 🚫 Forbidden in child-facing text  
+### 🚫 Forbidden in child-facing text
 (Allowed only in adult notes)
-- algorithm  
-- permutation  
-- orientation  
-- clockwise / counterclockwise  
+- algorithm
+- permutation
+- orientation
+- clockwise / counterclockwise
 - adjacent
 
 ---
@@ -131,8 +131,8 @@ These metaphors are **fixed** and must never drift.
 ### 🤍 Petals
 - White edge pieces
 - Used **only** during:
-  - the daisy  
-  - the white cross  
+  - the daisy
+  - the white cross
 - Retired after Step 1
 
 ---
@@ -149,8 +149,8 @@ These metaphors are **fixed** and must never drift.
 ### 🦋 Butterfly
 A piece handled when it is in the **top layer**.
 
-- Butterflies live in the sky  
-- Butterflies escape when the net lifts  
+- Butterflies live in the sky
+- Butterflies escape when the net lifts
 - Butterflies are defined by **location**, not type
 
 **Scope:**
@@ -184,14 +184,14 @@ The Working Door:
 - is how pieces enter and leave safely
 
 By step:
-- Step 1 – empty on purpose  
-- Step 2 – loads middle edges  
-- Step 3 – cycles edges  
+- Step 1 – empty on purpose
+- Step 2 – loads middle edges
+- Step 3 – cycles edges
 - Step 4 – twists corners
 
 The Working Door is:
-✅ intentional  
-✅ safe  
+✅ intentional
+✅ safe
 ❌ not a mistake
 
 In the final step:
@@ -210,7 +210,7 @@ The cube may be rotated around its **vertical axis** (as if it were sitting on a
 This type of rotation is allowed throughout **Steps 1–3** and is used to:
 
 - change which face is in front,
-- and therefore change which side serves as the **Working Door**,  
+- and therefore change which side serves as the **Working Door**,
     **without changing the story or the structure of the cube**.
 
 During these rotations:
@@ -218,7 +218,7 @@ During these rotations:
 - 🟨 **Yellow must always remain on top**
 - ⬜ **White must always remain on the bottom**
 
-These rotations are observational and positional only.  
+These rotations are observational and positional only.
 They do **not** introduce new moves or new mechanics.
 
 Any rotation that would move yellow off the top or white off the bottom is **not allowed** unless explicitly instructed.
@@ -232,15 +232,15 @@ The guide restricts cube rotations **only** to preserve a stable story world:
 
 The restriction is **not** meant to freeze the cube in space.
 
-Spinning the cube horizontally to look at different sides is expected and natural.  
+Spinning the cube horizontally to look at different sides is expected and natural.
 Tilting, flipping, or casually re‑orienting the cube vertically would break the story and is intentionally avoided.
 
 ### Final Cube Rotation (Single Exception)
 
 The cube is rotated **exactly once** in the entire guide.
 
-- Happens only in Step 4  
-- Used only to finish the last two twisted corners  
+- Happens only in Step 4
+- Used only to finish the last two twisted corners
 - Treated as a special, celebratory moment
 
 After this rotation:
@@ -281,9 +281,9 @@ This guide is successful if:
 
 ## Canonical Status
 
-✅ Metaphors locked  
-✅ Working Door locked  
-✅ One-algorithm rule locked  
+✅ Metaphors locked
+✅ Working Door locked
+✅ One-algorithm rule locked
 ✅ 8355 structure locked
 
 Future work may **extend**, but must never redefine, these rules.
