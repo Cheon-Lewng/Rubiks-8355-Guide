@@ -21,7 +21,7 @@ body {
   transition: background-color var(--transition-speed), color var(--transition-speed);
 }
 
-body.light-mode {
+html.light-mode {
   --bg-color: #f4f4f4;
   --text-color: #111;
   --link-color: #0066cc;
@@ -44,7 +44,7 @@ header {
 
 header h1 a {
   text-decoration: none;
-  color: white;
+  color: var(--text-color);
 }
 
 .nav-toggle {

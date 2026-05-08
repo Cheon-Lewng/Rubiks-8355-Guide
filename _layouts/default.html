@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+  <script>
+    (function () {
+      try {
+        const theme = localStorage.getItem("theme");
+        if (theme === "light") {
+          document.documentElement.classList.add("light-mode");
+        }
+      } catch (e) { }
+    })();
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
   <header>
     <h1><a href="{{ '/' | relative_url }}">Rubik’s Guides</a></h1>
@@ -44,9 +56,10 @@
 
     // Toggle theme
     themeToggle.addEventListener("click", () => {
-      document.body.classList.toggle("light-mode");
+      const root = document.documentElement;
+      root.classList.toggle("light-mode");
 
-      if (document.body.classList.contains("light-mode")) {
+      if (root.classList.contains("light-mode")) {
         localStorage.setItem("theme", "light");
         themeToggle.textContent = "🌞";
       } else {
@@ -54,7 +67,9 @@
         themeToggle.textContent = "🌙";
       }
     });
+
   </script>
-``
+  ``
 </body>
+
 </html>

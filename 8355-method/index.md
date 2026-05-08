@@ -28,7 +28,7 @@ This step builds a calm, friendly world where everything else can happen.
 1. **Making a Daisy**<br>
     Meet the Sun and the Petals.<br>
     We make a flower to help us begin.<br>
-    👉 [Step 1A – Making a Daisy](01_daisy.md)
+    👉 [Step 1A – Making a Daisy](1a_daisy.md)
 
 2. **Growing the White Cross**<br>
 The daisy changes shape and becomes strong.<br>
