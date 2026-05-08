@@ -25,6 +25,7 @@ html.light-mode {
   --bg-color: #f4f4f4;
   --text-color: #111;
   --link-color: #0033cc;
+  --link-visited-color: #0051ff;
   --header-bg: #e0e0e0;
 }
 
@@ -90,7 +91,7 @@ header h1 a {
 }
 
 .navbar-links a:visited {
-  color: var(--link-color);
+  color: var(--link-visited-color);
 }
 
 .navbar-links a:hover {
