@@ -55,6 +55,13 @@
       navbarLinks.classList.toggle("show");
     });
 
+    const navLinks = navbarLinks.querySelectorAll("a");
+    navLinks.forEach(link => {
+      link.addEventListener("click", () => {
+        navbarLinks.classList.remove("show");
+      });
+    });
+
     // Load saved theme
     const savedTheme = localStorage.getItem("theme");
     if (savedTheme === "light") {
