@@ -217,7 +217,16 @@ main a:hover {
 @media (min-width: 768px) {
   /* Hide hamburger */
   .nav-toggle {
-    display: none;
+    display: block;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+    position: absolute;
+    right: 3.5rem;
+    top: 1rem;
+    z-index: 999;
   }
 
   /* Horizontal nav layout */
@@ -245,6 +254,26 @@ main a:hover {
     width: 1px;
     background-color: rgba(255, 255, 255, 0.3);
   }
+
+  /* mobile nav style */
+  .navbar-links {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0 1rem;
+    background-color: var(--header-bg);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+  }
+
+  .navbar-links.show {
+    display: flex;
+    max-height: 300px;
+    padding: 1rem;
+  }
+
 
   html.light-mode
   .navbar-links a:not(:last-child)::after {
