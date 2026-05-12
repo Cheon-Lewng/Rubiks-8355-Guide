@@ -64,6 +64,8 @@ That is normal.<br>
 The cube knows how to come back.<br>
 👉 [Step 3 – Watching the Last Edges](3_5-edges.md)
 
+---
+
 ### 🐟 Step 4 – The Final Corner Dance (5 Friends)
 At the very end, we meet the Fish.<br>
 We help the last corner friends by doing a gentle, repeating dance.<br>
@@ -85,6 +87,8 @@ You never need to guess.
 
 This guide works because it is patient.<br>
 And because you are patient too.
+
+---
 
 ## 🌈 Ready to Begin?
 If you just came from Before the Adventure Begins, you’re ready.<br>
