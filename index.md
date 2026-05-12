@@ -53,7 +53,8 @@ This page explains every important word and character used in the story:
 - Net
 - Butterfly
 - Fish
-- Working Door<br>
+- Working Door
+
 Nothing here is required to solve. It is here to help adults explain things without changing the story.<br>
 👉 This is the dictionary for this world.<br>
 [Big Words and Friends](./big-words)
@@ -69,6 +70,7 @@ You never need to guess.<br>
 You never need to count.<br>
 If something goes wrong, the story shows how to recover. Mistakes are part of the adventure.
 
+---
 
 ## 👩‍👧 For Grown‑Ups Reading Along
 This guide is written for children first.<br>
@@ -79,6 +81,7 @@ avoid adding cube words<br>
 trust the structure<br>
 There are notes just for you when needed. They are never required for success.
 
+---
 
 ## 🌈 Ready to Begin?
 Take a deep breath. Hold the cube. Look for the Sun.<br>
