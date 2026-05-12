@@ -115,4 +115,4 @@ _The cube feels steady and ready for something new._
 
 ⬅️ [**Back: Step 1C – Catching Three Butterflies**](1c_3-corners.md) | [**Next: Step 3 – Watching the Last Edges**](3_5-edges.md) ➡️
 
-🔝 **Return to [Guide Overview](index.md)**
+🔝 Return to [Guide Overview](index.md)
